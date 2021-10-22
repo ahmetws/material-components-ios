@@ -33,7 +33,6 @@ let package = Package(
             ],
                 path: "components/TextFields/",
                 exclude:[
-                    "src/ColorThemer",
                     "src/Theming",
                     "src/private/MDCTextField+Testing.h"
             ],
